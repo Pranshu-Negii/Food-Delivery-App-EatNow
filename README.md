@@ -28,6 +28,12 @@ EatNow is a modern and responsive food delivery web application built with **Rea
 
 <br>
 
+## 🌐 Live Website
+
+[Click here to visit the website](https://pranshu-negii.github.io/Food-Delivery-App-EatNow/)
+
+<br>
+
 # SCREENSHOT 
 
 # Homepage
